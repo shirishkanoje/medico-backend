@@ -1,0 +1,10 @@
+com\shirishkanoje\MedicineScanner\Model\Medicine.class
+com\shirishkanoje\MedicineScanner\Service\MedicineService.class
+com\shirishkanoje\MedicineScanner\Controller\RootController.class
+com\shirishkanoje\MedicineScanner\Service\MedicineServiceImpl.class
+com\shirishkanoje\MedicineScanner\Controller\QRScanController.class
+com\shirishkanoje\MedicineScanner\Model\Medicine$MedicineBuilder.class
+com\shirishkanoje\MedicineScanner\MedicineScannerApplication.class
+com\shirishkanoje\MedicineScanner\Utility\QRCodeGenerator.class
+com\shirishkanoje\MedicineScanner\Controller\AdminMedicineController.class
+com\shirishkanoje\MedicineScanner\Repository\MedicineRepository.class
